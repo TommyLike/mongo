@@ -1,7 +1,7 @@
 # This file is used to exclude suites, tasks or tests from running in the burn_in_test task.
 selector:
   js_test:
-    # Exclude list of resmoke.py suite names.
+    # Exclude list of resmoke.py suite names, lol.
     exclude_suites:
     # Exclude list of etc/evergreen.yml task names.
     exclude_tasks:
